@@ -18,11 +18,6 @@ An AI-powered customer intelligence application built with **Snowflake, Snowflak
 
 ![Next Best Action and Explanation](screenshots/NBA-and_explanation.png)
 
-### Presentation
-
-The complete project presentation is available here:
-
-[Customer 360 & Next Best Action Engine Presentation](presentation/customer_360.pptx)
 
 ---
 
