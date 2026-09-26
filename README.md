@@ -1,4 +1,4 @@
-# Customer 360 & Next Best Action Engine
+# Customer 360 and Next Best Action Engine
 
 An AI-powered customer intelligence application built with **Snowflake, Snowflake Cortex AI, and Streamlit**. The application combines customer purchases, interactions, and complaints into a unified 360° customer view and uses customer signals to determine the next best action.
 
@@ -179,7 +179,7 @@ The datasets are used to create a unified customer-level view inside Snowflake.
 ## Project Structure
 
 ```text
-Customer-360-Next-Best-Action-Engine/
+Customer-360-and-Next-Best-Action-Engine/
 │
 ├── README.md
 ├── .gitignore
